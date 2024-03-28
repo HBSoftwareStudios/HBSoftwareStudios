@@ -23,6 +23,6 @@ This repository is licensed under the MIT License.
 
 ## Connect with Us
 Website: https://www.handbsoftwarestudios.com
-LinkedIn: H&B Software Studios
-Twitter: @handbsoftware
-Thank you for choosing H&B Software Studios for your software needs!
+LinkedIn: https://www.linkedin.com/company/hb-software-studios
+
+<br/> Thank you for choosing H&B Software Studios for your software needs!
