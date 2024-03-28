@@ -19,7 +19,7 @@ For any inquiries or support requests, feel free to contact us at info@hb-softwa
 We welcome contributions from the community! If you're interested in contributing to our projects, please check out our Contribution Guidelines.
 
 ## License
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](https://github.com/HBSoftwareStudios/HBSoftwareStudios/blob/main/LICENSE).
 
 ## Connect with Us
 Website: https://www.hb-softwarestudios.de <br/>
