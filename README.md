@@ -22,7 +22,7 @@ We welcome contributions from the community! If you're interested in contributin
 This repository is licensed under the MIT License.
 
 ## Connect with Us
-Website: https://www.handbsoftwarestudios.com
+Website: https://www.hb-softwarestudios.de <br/>
 LinkedIn: https://www.linkedin.com/company/hb-software-studios
 
 <br/> Thank you for choosing H&B Software Studios for your software needs!
