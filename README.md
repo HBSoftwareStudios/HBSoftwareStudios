@@ -15,8 +15,8 @@ H&B Software Studios is a leading software development company specializing in c
 ## Support
 For any inquiries or support requests, feel free to contact us at info@hb-softwarestudios.de
 
-## Contributing
-We welcome contributions from the community! If you're interested in contributing to our projects, please check out our Contribution Guidelines.
+## Co-Operation
+We are welcoming you to let us build and maintain your software projects. This is our [terms and policies for co-operation]()
 
 ## License
 This repository is licensed under the [MIT License](https://github.com/HBSoftwareStudios/HBSoftwareStudios/blob/main/LICENSE).
